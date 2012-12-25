@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shaker", "Shaker\Shaker.csproj", "{C31CF3D1-9D8B-4E61-A6F9-A820CCAFCBF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shaker.Web", "Shaker.Web\Shaker.Web.csproj", "{B3A610EF-541A-46ED-882A-DB4B38390851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C31CF3D1-9D8B-4E61-A6F9-A820CCAFCBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31CF3D1-9D8B-4E61-A6F9-A820CCAFCBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31CF3D1-9D8B-4E61-A6F9-A820CCAFCBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31CF3D1-9D8B-4E61-A6F9-A820CCAFCBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3A610EF-541A-46ED-882A-DB4B38390851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A610EF-541A-46ED-882A-DB4B38390851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A610EF-541A-46ED-882A-DB4B38390851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A610EF-541A-46ED-882A-DB4B38390851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
